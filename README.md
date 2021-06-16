@@ -1,2 +1,2 @@
-# CV_Intro_Session_2021
-Intro to openCV, Color spaces, thresholding, convolutional filters
+# CV_Contours_2021
+Intro to Contour detection, edge detection
